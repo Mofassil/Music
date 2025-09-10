@@ -2,10 +2,10 @@
 
 A modern web application built with Next.js 15.5.0, React 19, and TailwindCSS for music education and courses.
 
-![Project Demo](./public/demo-screenshot.png)
+
 
 ## 🌐 Live Demo
-[View Live Demo](https://music-mofassil.vercel.app)
+NA
 
 ## ✨ Features
 
